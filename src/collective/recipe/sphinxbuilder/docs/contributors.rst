@@ -9,3 +9,4 @@ Contributors
  * Domen Kozar
  * Tres Seaver
  * Sébastien Douche, maintainer
+ * Jonathan Ballet
