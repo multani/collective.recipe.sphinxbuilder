@@ -2,6 +2,11 @@
 Changes
 =======
 
+0.7.4
+=====
+
+  - add support for Python 3 & drop support for Python < 2.6
+
 0.7.3 (2013-02-16)
 ==================
 
